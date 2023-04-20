@@ -1,0 +1,15 @@
+.container-footer {
+  padding: 5rem 0;
+  color: var(--white-smoke-color);
+  text-align: center;
+}
+
+.icon-img {
+  max-width: 50px;
+  padding: 0 0 0 22px;
+  transition: all .3s ease-in-out;
+}
+
+.icon-img:hover {
+  transform: scale(1.2);
+}

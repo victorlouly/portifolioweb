@@ -14,6 +14,10 @@ hr {
   flex-wrap: wrap;
 }
 
+.purple-text {
+  text-align: center;
+}
+
 .project-box {
   border-radius: 10px;
   max-width: 60%;
